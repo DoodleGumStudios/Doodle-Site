@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+body {
+	text-align: center;
+	background-image: url("src/paper.png");
+    font-family: DynaPuff;
+}
+
+a {
+	color: black;
+	text-align: left;
+}
